@@ -5,6 +5,13 @@ Chức năng chính:
 - Đăng ký (Register)
 - Đăng nhập (Login)
 
+---
+# Cài dependencies
+npm install
+
+# Chạy server
+node app.js
+
 Kết quả test được lưu trong thư mục `result_test_img/`.
 
 ---
