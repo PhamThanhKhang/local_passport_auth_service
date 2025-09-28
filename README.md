@@ -9,7 +9,7 @@ Kết quả test được lưu trong thư mục `result_test_img/`.
 
 ---
 
-## 📸 Kết quả test
+## Kết quả test
 
 ### 1. Đăng ký (Register)
 ![Register](result_test_img/register.png)
